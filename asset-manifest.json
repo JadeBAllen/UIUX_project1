@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/UIUX_project1/static/css/main.f9b5bb78.css",
+    "main.js": "/UIUX_project1/static/js/main.cf7641ef.js",
+    "static/media/Feature Image.png": "/UIUX_project1/static/media/Feature Image.80ea83936af29a406c11.png",
+    "static/media/Rectangle 22-4.png": "/UIUX_project1/static/media/Rectangle 22-4.e9958704f3299c346752.png",
+    "static/media/Rectangle 22-1.png": "/UIUX_project1/static/media/Rectangle 22-1.c43550e6bc103e5bf412.png",
+    "static/media/Rectangle 22-2.png": "/UIUX_project1/static/media/Rectangle 22-2.5c5ea549195ff2f0cbdf.png",
+    "static/media/Rectangle 22-3.png": "/UIUX_project1/static/media/Rectangle 22-3.521d2705b0cebd675bd9.png",
+    "static/media/Rectangle 22.png": "/UIUX_project1/static/media/Rectangle 22.21e358d4193494b4c12f.png",
+    "static/media/Illustration.png": "/UIUX_project1/static/media/Illustration.a349007e51700565c0b4.png",
+    "static/media/Group 81.png": "/UIUX_project1/static/media/Group 81.638fb1cc6864f41cdb4d.png",
+    "static/media/dropbox.png": "/UIUX_project1/static/media/dropbox.5ed6164189371ddd0b8a.png",
+    "static/media/atlassian.png": "/UIUX_project1/static/media/atlassian.04641ad8e47ec224f08c.png",
+    "static/media/GPT-3.svg": "/UIUX_project1/static/media/GPT-3.cf6810c94fbac0cc653f939ff5723cf4.svg",
+    "index.html": "/UIUX_project1/index.html",
+    "main.f9b5bb78.css.map": "/UIUX_project1/static/css/main.f9b5bb78.css.map",
+    "main.cf7641ef.js.map": "/UIUX_project1/static/js/main.cf7641ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9b5bb78.css",
+    "static/js/main.cf7641ef.js"
+  ]
+}
